@@ -1,0 +1,43 @@
+{
+  "buses": [
+    {
+      "id": 1,
+      "name": "Ex 1-2",
+      "route": "Kaduwela - Matara",
+      "image": "https://i.ibb.co/k3kBDg8/Bus-pic-1.png",
+      "speed": 100,
+      "seats": {
+        "reserved": {
+          "leftSide": [1, 2, 10, 11],
+          "rightSide": [3, 4, 6]
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "Ex 3-4",
+      "route": "Colombo - Galle",
+      "image": "https://i.ibb.co/k3kBDg8/Bus-pic-1.png",
+      "speed": 120,
+      "seats": {
+        "reserved": {
+          "leftSide": [2, 4, 5],
+          "rightSide": [1, 15]
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "Ex 5-6",
+      "route": "Negombo - Jaffna",
+      "image": "https://i.ibb.co/k3kBDg8/Bus-pic-1.png",
+      "speed": 200,
+      "seats": {
+        "reserved": {
+          "leftSide": [10, 11],
+          "rightSide": [3, 4, 6]
+        }
+      }
+    }
+  ]
+}
